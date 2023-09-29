@@ -1,4 +1,4 @@
-# {{PROBLEM}} Multi-Class Planned Design Recipe
+# {{Organiser}} Multi-Class Planned Design Recipe
 
 ## 1. Describe the Problem
 
@@ -148,14 +148,14 @@ class PhoneNumberExtractor():
         pass
 
 class ReadableEntryExtractor():
-def __init__(self, diary):
-        # Parameters:
-        #   diary: an instance of Diary
-        # Returns:
-        #   nothing
-        # Side-effect: 
-        #   set diary property
-        pass
+    def __init__(self, diary):
+            # Parameters:
+            #   diary: an instance of Diary
+            # Returns:
+            #   nothing
+            # Side-effect: 
+            #   set diary property
+            pass
 
     def extract(self, wpm, minutes):
         # Parameters:
