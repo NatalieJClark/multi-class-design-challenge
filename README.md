@@ -7,6 +7,9 @@
 - This project is a multi-class system, containing DiaryEntry, Diary, Task, TaskList, PhoneNumberExtractor and ReadableEntryExtractor classes
 - It used TDD and so contains unit and integration tests
 - It satisfies all the user stories in the objectives below
+
+![image](https://github.com/NatalieJClark/multi-class-organiser/assets/107806810/2f8b8be1-a6b6-473e-a318-fa213e9481ef)
+
   
 ## Objectives
 Complete the following challenge:
