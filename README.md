@@ -8,7 +8,7 @@
 - It used TDD and so contains unit and integration tests
 - It satisfies all the user stories in the objectives below
 
-![image](https://github.com/NatalieJClark/multi-class-organiser/assets/107806810/2f8b8be1-a6b6-473e-a318-fa213e9481ef)
+<img width="1153" alt="image" src="https://github.com/NatalieJClark/multi-class-organiser/assets/107806810/86cae84d-9d6f-4aea-9daf-2f7f4ccb640d">
 
   
 ## Objectives
